@@ -21,10 +21,10 @@ vagrant up
 
 ## Areas of interest
 
-1. [MailHog](http://wordcamp.local:8025)           - [MailHog](http://iankent.uk/project/mailhog/) catches the emails WordPress sends.
-2. [Phpinfo](http://wordcamp.local/phpinfo.php)    - View your PHP settings.
-3. [Xdebug](https://github.com/Chassis/Xdebug)     - [Xdebug](https://xdebug.org/) is installed and ready to be setup for usage in PHPStorm.
-4. [Tester](https://github.com/Chassis/Tester)     - [Phpunit](https://phpunit.de/) has been setup so you can unit test your WordPress plugins and themes.
-5. [Composer](https://github.com/Chassis/Composer) - [Composer](https://getcomposer.org/) has been setup on your development server.
-6. [Grunt](https://github.com/Chassis/Grunt)       - [Grunt](https://gruntjs.com/) has been setup on your development server.
+1. [MailHog - Chassis Extension](http://wordcamp.local:8025)           - [MailHog](http://iankent.uk/project/mailhog/) catches the emails WordPress sends.
+2. [Phpinfo](http://wordcamp.local/phpinfo.php)                        - View your PHP settings.
+3. [Xdebug  - Chassis Extension](https://github.com/Chassis/Xdebug)    - [Xdebug](https://xdebug.org/) is installed and ready to be setup for usage in PHPStorm.
+4. [Tester - Chassis Extension](https://github.com/Chassis/Tester)     - [Phpunit](https://phpunit.de/) has been setup so you can unit test your WordPress plugins and themes.
+5. [Composer - Chassis Extension](https://github.com/Chassis/Composer) - [Composer](https://getcomposer.org/) has been setup on your development server.
+6. [Grunt - Chassis Extension](https://github.com/Chassis/Grunt)       - [Grunt](https://gruntjs.com/) has been setup on your development server.
 
