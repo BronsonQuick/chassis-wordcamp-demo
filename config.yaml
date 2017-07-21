@@ -1,0 +1,29 @@
+# WordCamp Brisbane Configuration
+hosts:
+    - wordcamp.local
+
+# Database configuration
+# (When overriding, include all values)
+database:
+    name: wordcamp
+    user: wordcamp
+    password: vagrantpassword
+    prefix: wc_
+
+# Admin configuration
+# (When overriding, include all values)
+admin:
+    user: wordcamp
+    email: bronson@wordcamp.org
+    password: qCTMbf8){kUZWk8xk
+
+# Extensions
+#
+# Install a list of extensions automatically
+#extensions:
+#  - Chassis/Tester
+#  - git@github.com:Chassis/memcache.git
+
+# PHP version
+# Values: 5.6, 7.0, 7.1 (or 5.6.30)
+php: 7.1
