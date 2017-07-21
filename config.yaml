@@ -20,9 +20,17 @@ admin:
 # Extensions
 #
 # Install a list of extensions automatically
-#extensions:
-#  - Chassis/Tester
-#  - git@github.com:Chassis/memcache.git
+extensions:
+  # https://github.com/Chassis/MailHog
+  - chassis/mailhog
+  # https://github.com/Chassis/Xdebug
+  - chassis/xdebug
+  # https://github.com/Chassis/Tester
+  - chassis/tester
+  # https://github.com/Chassis/Composer
+  - chassis/composer
+  # https://github.com/Chassis/Grunt
+  - chassis/grunt
 
 # PHP version
 # Values: 5.6, 7.0, 7.1 (or 5.6.30)
